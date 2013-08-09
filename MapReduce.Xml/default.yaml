@@ -1,0 +1,9 @@
+ClusterUrl: [UrlToCluster]
+ClusterUserName: [ClusterUserName]
+ClusterPassword: [Password]
+HadoopUserName: Hadoop
+BlobStorageUrl: [MyStorage].blob.core.windows.net
+BlobStorageKey: [MyKey]
+BlobContainerName: [Container]
+InputPath: asvs://[DataContainer]@[MyStorage].blob.core.windows.net/in
+OutputPath: asvs://[DataContainer]@[MyStorage].blob.core.windows.net/out
